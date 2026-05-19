@@ -8,7 +8,7 @@ require (
 	github.com/charmbracelet/bubbletea v1.3.10
 	github.com/charmbracelet/lipgloss v1.1.0
 	github.com/rs/zerolog v1.35.1
-	go.mau.fi/mautrix-linkedin v0.2512.0
+	go.mau.fi/mautrix-linkedin v0.2604.0
 	go.mau.fi/util v0.9.8
 )
 
@@ -39,5 +39,5 @@ require (
 	golang.org/x/net v0.53.0 // indirect
 	golang.org/x/sys v0.43.0 // indirect
 	golang.org/x/text v0.36.0 // indirect
-	maunium.net/go/mautrix v0.26.1 // indirect
+	maunium.net/go/mautrix v0.27.0 // indirect
 )
